@@ -84,6 +84,7 @@ Library
                      Crypto.Cipher.Types
                      Crypto.Data.AFIS
                      Crypto.Data.Padding
+                     Crypto.ECC
                      Crypto.Error
                      Crypto.MAC.Poly1305
                      Crypto.MAC.HMAC
@@ -110,6 +111,7 @@ Library
                      Crypto.PubKey.ECC.ECDSA
                      Crypto.PubKey.ECC.P256
                      Crypto.PubKey.ECC.Types
+                     Crypto.PubKey.ECIES
                      Crypto.PubKey.Ed25519
                      Crypto.PubKey.RSA
                      Crypto.PubKey.RSA.PKCS15
